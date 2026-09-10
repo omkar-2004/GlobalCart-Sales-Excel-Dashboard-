@@ -36,7 +36,7 @@ The executive team at GlobalCart needed a unified view of their sales and operat
 
 ## 📸 Dashboard Preview
 *(Note: Upload your screenshot image to your repository and make sure the file name matches exactly below)*
-![GlobalCart Dashboard Screenshot](image_0a8ce6.png)
+![GlobalCart Dashboard Screenshot](https://github.com/omkar-2004/GlobalCart-Sales-Excel-Dashboard-/blob/main/Screenshots/GlobalCart%20Sales%20Excel%20Dashboard.png?raw=true)
 
 ---
 *Created by [Omkar Yadav/[LinkedIn Profile Link](https://www.linkedin.com/in/omkaryadav266)]*
