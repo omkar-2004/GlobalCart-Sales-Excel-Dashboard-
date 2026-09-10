@@ -35,7 +35,6 @@ The executive team at GlobalCart needed a unified view of their sales and operat
 4.  Use the slicers on the left-hand panel to interact with the data and watch the charts update dynamically!
 
 ## 📸 Dashboard Preview
-*(Note: Upload your screenshot image to your repository and make sure the file name matches exactly below)*
 ![GlobalCart Dashboard Screenshot](https://github.com/omkar-2004/GlobalCart-Sales-Excel-Dashboard-/blob/main/Screenshots/GlobalCart%20Sales%20Excel%20Dashboard.png?raw=true)
 
 ---
